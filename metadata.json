@@ -1,0 +1,10 @@
+{
+  "name": "Sahaj Dairy BMC",
+  "description": "Bulk Milk Cooling (BMC) and Milk Collection Management Portal for Sahaj Dairy in Karimganj, Mainpuri, UP.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
